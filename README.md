@@ -1,15 +1,15 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/671/361/277/programming-code-simple-background-coding-wallpaper-preview.jpg)](https://fabian-devinc.itch.io/)
 <h1 align="center">Hi 👋, I'm Fabián Gabriel</h1>
-<h3 align="center">A funny Gameplay Programmer/Software Developer from México.</h3>
+<h3 align="center">Lead Software Developer | Gameplay Programmer from México.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MlV3dHq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiangabriel01&label=Profile%20views&color=0e75b6&style=flat" alt="fabiangabriel01" /> </p>
 
-- 🌱 I’m currently learning **Servers Technology**
+- 🌱 I’m currently learning **Servers Technology | R **
 
 - 👨‍💻 All of my projects are available at [https://fabian-devinc.itch.io/](https://fabian-devinc.itch.io/)
 
-- 💬 Ask me about **Unreal engine 4/5, C++, C#, UNITY, LUA, VuforiaEngine and AR/VR/XR, also Python, SQL**
+- 💬 Ask me about **Unreal engine 4/5, C++, C#, UNITY, LUA, VuforiaEngine and AR/VR/XR, also Python, SQL, PyCharm**
 
 - 📫 How to reach me **Fabian.Gls.Dev@outlook.com**
 
