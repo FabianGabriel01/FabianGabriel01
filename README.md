@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fabian-devinc.itch.io/](https://fabian-devinc.itch.io/)
 
-- 💬 Ask me about **Unreal engine 4/5, C++, C#, UNITY, LUA, VuforiaEngine and AR/VR/XR, also Python, SQL, APIREST, Flask, Docker, Automated, ModbusProtocols**
+- 💬 Ask me about **Unreal engine 4/5, C++, C#, UNITY, LUA, VuforiaEngine and AR/VR/XR, also Python, SQL, APIREST, Flask, Docker, Automated, ModbusProtocols, Selenium**
 
 - 📫 How to reach me **Fabian.Gls.Dev@outlook.com**
 
