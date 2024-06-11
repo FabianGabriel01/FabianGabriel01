@@ -1,19 +1,19 @@
 [![MasterHead](https://img.freepik.com/free-vector/illustration-computer-hacking-code_53876-37632.jpg?w=1380&t=st=1713994018~exp=1713994618~hmac=9ab8e401db504fa206510cc6870e35782f3dcde9be482bc41dd5c3fdd697c42b)](https://fabian-devinc.itch.io/)
-<h1 align="center">Hi 👋, I'm Fabián Gabriel</h1>
+<h1 align="center">Hi 👋, I'm Fabián</h1>
 <h3 align="center">Lead Software Developer | Gameplay Programmer from México.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MlV3dHq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiangabriel01&label=Profile%20views&color=0e75b6&style=flat" alt="fabiangabriel01" /> </p>
 
-- 🌱 I’m currently learning **Servers Technology | R **
+- 🌱 I’m currently learning ** Servers Technology | R **
 
 - 👨‍💻 All of my projects are available at [https://fabian-devinc.itch.io/](https://fabian-devinc.itch.io/)
 
-- 💬 Ask me about **Unreal engine 4/5, C++, C#, UNITY, LUA, VuforiaEngine and AR/VR/XR, also Python, SQL, PyCharm**
+- 💬 Ask me about **Unreal engine 4/5, C++, C#, UNITY, LUA, VuforiaEngine and AR/VR/XR, also Python, SQL, APIREST, Flask, Docker, Automated, ModbusProtocols**
 
 - 📫 How to reach me **Fabian.Gls.Dev@outlook.com**
 
-- ⚡ Fun fact **1v1 on Apex?**
+- ⚡ Fun fact **1v1 on Apex Legends??**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
