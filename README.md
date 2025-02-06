@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiangabriel01&label=Profile%20views&color=0e75b6&style=flat" alt="fabiangabriel01" /> </p>
 
-- 🌱 I’m currently learning ** Servers Technology | R **
+- 🌱 I’m currently learning ** Cyber Security **
 
 - 👨‍💻 All of my projects are available at [https://fabian-devinc.itch.io/](https://fabian-devinc.itch.io/)
 
