@@ -1,29 +1,63 @@
 [![MasterHead](https://img.freepik.com/free-vector/illustration-computer-hacking-code_53876-37632.jpg?w=1380&t=st=1713994018~exp=1713994618~hmac=9ab8e401db504fa206510cc6870e35782f3dcde9be482bc41dd5c3fdd697c42b)](https://fabian-devinc.itch.io/)
-<h1 align="center">Lead Software Developer | Gameplay Programmer from México.</h1>
+
+<h1 align="center">🎮 Fabian Gabriel | Lead Software Engineer & Gameplay Programmer</h1>
+<h3 align="center">Building immersive experiences and robust systems — from Mexico to the world.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MlV3dHq.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiangabriel01&label=Profile%20views&color=0e75b6&style=flat" alt="fabiangabriel01" /> </p>
+---
 
-- 🌱 I’m currently learning ** Cyber Security **
+🔧 **About Me**  
+With over **7+ years of experience** in software development and game programming, I specialize in building high-performance systems, immersive gameplay mechanics, and scalable backend architectures. I'm passionate about **Unreal Engine, Unity, AR/VR/XR**, and love turning bold ideas into real-time interactive experiences.
 
-- 👨‍💻 All of my projects are available at [https://fabian-devinc.itch.io/](https://fabian-devinc.itch.io/)
+---
 
-- 💬 Ask me about **Unreal engine 4/5, C++, C#, UNITY, LUA, VuforiaEngine and AR/VR/XR, also Python, SQL, APIREST, Flask, Docker, Automated, ModbusProtocols, Selenium**
+🧠 **Current Focus**
+- Cybersecurity & Secure Game Architectures 🔐
+- Networking in Multiplayer Games
+- Tools Development for Game Engines
+- Real-time Rendering and Optimization Techniques
 
-- 📫 How to reach me **Fabian.Gls.Dev@outlook.com**
+---
 
-- ⚡ Fun fact **1v1 on Apex Legends??**
+🚀 **Tech Stack & Skills**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fabiangdev/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fabiangdev/?locale=en_us" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC9EE1gWaV7iC8RuTfhq-t9g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fabian.devops" height="30" width="40" /></a>
+**🎮 Game Dev:**  
+`Unreal Engine 4/5` · `Unity` · `Blueprints` · `C++` · `C#` · `LUA` · `AR/VR/XR` · `Vuforia`
+
+**💻 Software & Backend:**  
+`Python` · `SQL` · `API REST` · `Flask` · `Docker` · `Selenium` · `Modbus Protocols`
+
+**⚙️ Dev Tools & Others:**  
+`Git` · `Bash` · `Firebase` · `Node.js` · `MySQL` · `Java` · `PHP` · `HTML/CSS` · `.NET`
+
+---
+
+📂 **Featured Projects**
+Explore some of my game and software prototypes on [**Itch.io**](https://fabian-devinc.itch.io/)
+
+---
+
+📬 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiangdev/?locale=en_us)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9EE1gWaV7iC8RuTfhq-t9g)
+📧 **Email:** Fabian.Gls.Dev@outlook.com
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiangabriel01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiangabriel01&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiangabriel01&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiangabriel01&show_icons=true&locale=en&layout=compact" alt="fabiangabriel01" /></p>
+---
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiangabriel01&" alt="fabiangabriel01" /></p>
+🎯 **Fun Fact:**  
+If I'm not coding or designing game mechanics, I’m probably playing **Apex Legends** — 1v1 me? 😎
