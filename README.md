@@ -53,9 +53,20 @@ Explore some of my game and software prototypes on [**Itch.io**](https://fabian-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiangabriel01&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiangabriel01&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+---
+
+🌟 **Tech Achievements & Highlights**
+
+- 🧠 **6+ years** of professional programming experience in software and game development.
+- 🎮 Shipped educational and multiplayer games using **Unity (C#)** and **Unreal Engine 4/5 (C++/Blueprints)**, with online support (Photon PUN2) and procedural AR/VR experiences (Vuforia Engine).
+- 🏭 Led industrial automation software projects using **Python, Flask, Docker**, and PLC protocols (Modbus), improving real-time monitoring for companies like **Pepsi GEPP** and **Essity**.
+- 🔐 Developed a proprietary **software protection system** using GitHub Gists and custom license validation to prevent piracy in sold solutions.
+- 🌐 Created and deployed full-stack dashboards for PLC data visualization (Temp, Voltage, Water Pressure) using **Raspberry Pi**, **Flask**, and **Selenium**.
+- ☁️ Engineered cloud integrations: Android-to-WordPress DB sync, OneDrive API automation (OAuth2 / Graph API), and remote HMI visualization replacing traditional interfaces.
+- 🛠️ Built internal developer tools: asset managers, UI frameworks, project generators and analytics dashboards — across game and industrial domains.
+- 🧪 Championed QA and documentation pipelines, tested iOS/Android/PC builds, ensured accessibility, and optimized gameplay loops for student learning (60% boost in retention).
+- 🏆 Winner of multiple Game Jams including Chanakua 2023 (rope-linked co-op car space shooter using Unity + Photon).
 
 ---
 
