@@ -1,5 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/illustration-computer-hacking-code_53876-37632.jpg?w=1380&t=st=1713994018~exp=1713994618~hmac=9ab8e401db504fa206510cc6870e35782f3dcde9be482bc41dd5c3fdd697c42b)](https://fabian-devinc.itch.io/)
-
 <h1 align="center">🎮 Fabian Gabriel | Lead Software Engineer & Gameplay Programmer</h1>
 <h3 align="center">Building immersive experiences and robust systems — from Mexico to the world.</h3>
 
