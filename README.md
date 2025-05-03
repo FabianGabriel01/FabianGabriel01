@@ -8,6 +8,15 @@
 🔧 **About Me**  
 With over **7+ years of experience** in software development and game programming, I specialize in building high-performance systems, immersive gameplay mechanics, and scalable backend architectures. I'm passionate about **Unreal Engine, Unity, AR/VR/XR**, and love turning bold ideas into real-time interactive experiences.
 
+
+---
+
+🌟**Shipped On Android/IOs/PC**  
+[**KN IMMERSIVE**](https://apps.apple.com/mx/app/kn-immersive/id1356293712)
+[**Itch.io**](https://fabian-devinc.itch.io/)
+
+
+
 ---
 
 🧠 **Current Focus**
